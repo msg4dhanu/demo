@@ -3,4 +3,6 @@
  */
 
 public class Four {
+
+    public int four;
 }

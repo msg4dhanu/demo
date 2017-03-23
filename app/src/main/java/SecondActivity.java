@@ -4,4 +4,5 @@
 
 public class SecondActivity {
     public int no;
+    public int read;
 }
